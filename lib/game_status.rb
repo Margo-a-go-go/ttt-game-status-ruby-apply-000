@@ -38,3 +38,4 @@ end
     
 def over?(board)
   if won?(board)
+    return board()
